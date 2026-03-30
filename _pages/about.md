@@ -20,6 +20,7 @@ Michigan State University, USA
 Central Luzon State University, Philippines
 
 
+
 Jhon's Professional Background
 ------
 **Postdoctoral Research Associate / Postdoctoral Scholar**
@@ -28,15 +29,18 @@ Department of Plant Biology & MSU Plant Resilience Institute, Michigan State Uni
 U.S. Department of Energy - Great Lakes Bioenergy Research Center, Michigan State University, USA
 
 
+
 **Graduate Research Assistant**
 - 2021 - 2025,
 MSU Wheat Breeding and Genetics, 
 Department of Plant, Soil, and Microbial Sciences, Michigan State University, USA
 
 
+
 **Research Associate Specialist**
 - 2019 - 2021,
 School of Plant, Soil, and Environmental Sciences, Louisiana State University, USA
+
 
 
 **Science Research Analyst**
@@ -45,10 +49,12 @@ Plant Breeding and Biotechnology Division,
 Philippine Rice Research Institue
 
 
+
 **Science Research Assistant**
 - 2015 - 2016,
 Plant Breeding and Biotechnology Division,
 Philippine Rice Research Institue
+
 
 
 More About Jhon!
