@@ -9,4 +9,3 @@ venue: 'International Journal of Molecular Sciences'
 paperurl: 'https://doi.org/10.3390/ijms23031608'
 citation: 'Garcia, R., Coronejo, S., Concepcion, J.S., and Subudhi, P.K. (2022). &quot;Whole Genome Sequencing and RNA-Seq Reveal Differences in Genetic Mechanism for Flowering Response Between Weedy Rice and Cultivated Rice.&quot; <i>International Journal of Molecular Sciences</i>. 23(3), 1608. https://doi.org/10.3390/ijms23031608'
 ---
-Whole genome sequencing and RNA-Seq analyses revealed distinct genetic mechanisms controlling flowering response in weedy rice compared to cultivated rice.
