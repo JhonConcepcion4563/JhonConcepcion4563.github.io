@@ -1,0 +1,149 @@
+/* ==========================================================================
+   CUSTOM MODERN STYLES - Dark Blue Accent Theme
+   ========================================================================== */
+
+/* --- Accent Color Variables --- */
+$accent-color: #1a3a6b;
+$accent-light: #2d5aa0;
+$accent-hover: #0f2447;
+
+/* --- Masthead / Navigation --- */
+.masthead {
+  background: #0f2447 !important;
+  border-bottom: 3px solid #2d5aa0;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+
+  .site-title {
+    color: #ffffff !important;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    &:hover { color: #a8c4f0 !important; }
+  }
+
+  .greedy-nav {
+    background: transparent !important;
+
+    a {
+      color: #d0e0f7 !important;
+      font-weight: 500;
+      letter-spacing: 0.3px;
+      transition: color 0.2s ease;
+      &:hover { color: #ffffff !important; }
+    }
+
+    .visible-links a {
+      &:before {
+        background: #a8c4f0;
+      }
+      &.is-active {
+        color: #ffffff !important;
+        border-bottom: 3px solid #a8c4f0;
+      }
+    }
+  }
+}
+
+/* --- Page headings --- */
+h1, h2, h3 {
+  font-weight: 700;
+}
+
+h2 {
+  border-bottom: 3px solid #2d5aa0;
+  padding-bottom: 0.3em;
+  margin-bottom: 0.8em;
+  color: #0f2447;
+}
+
+h3 {
+  color: #1a3a6b;
+}
+
+/* --- Links --- */
+a {
+  color: #1a3a6b;
+  transition: color 0.2s ease;
+  &:hover {
+    color: #2d5aa0;
+    text-decoration: underline;
+  }
+}
+
+/* --- Buttons --- */
+.btn--primary {
+  background-color: #1a3a6b !important;
+  border-color: #1a3a6b !important;
+  color: #fff !important;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: background 0.2s ease, transform 0.1s ease;
+  &:hover {
+    background-color: #2d5aa0 !important;
+    border-color: #2d5aa0 !important;
+    transform: translateY(-1px);
+  }
+}
+
+/* --- Author sidebar --- */
+.sidebar.sticky {
+  background: linear-gradient(160deg, #f0f5ff 0%, #e8eef8 100%);
+  border-radius: 10px;
+  padding: 1.2em;
+  border: 1px solid #c8d8f0;
+}
+
+.author__name {
+  color: #0f2447;
+  font-weight: 700;
+}
+
+.author__bio {
+  color: #2d5aa0;
+  font-size: 0.9em;
+}
+
+/* --- Archive / publication list items --- */
+.archive__item-title a {
+  color: #1a3a6b;
+  font-weight: 600;
+  &:hover { color: #2d5aa0; }
+}
+
+/* --- Page content area --- */
+.page__content {
+  p { line-height: 1.8; }
+
+  h2 {
+    margin-top: 1.5em;
+  }
+}
+
+/* --- Page title --- */
+.page__title {
+  color: #0f2447;
+  font-weight: 800;
+  border-bottom: 4px solid #2d5aa0;
+  padding-bottom: 0.3em;
+}
+
+/* --- Footer --- */
+.page__footer {
+  background: #0f2447;
+  color: #d0e0f7;
+
+  a {
+    color: #a8c4f0;
+    &:hover { color: #ffffff; }
+  }
+
+  footer {
+    background: #0f2447;
+    color: #d0e0f7;
+  }
+}
+
+/* --- Smooth rounded cards for notices --- */
+.notice, .notice--info, .notice--warning, .notice--danger, .notice--success {
+  border-radius: 8px;
+  border-left: 5px solid #2d5aa0;
+}
