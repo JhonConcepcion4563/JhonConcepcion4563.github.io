@@ -9,4 +9,3 @@ venue: 'G3: Genes|Genomes|Genetics'
 paperurl: 'https://doi.org/10.1093/g3journal/jkaf176'
 citation: 'Concepcion, J.S., Noble, A.D., Dong, Y., Thompson, A.M., and Olson, E.L. (2025). &quot;Blended Genomic and Hyperspectral Imaging-Based Predictions Enable Selection for Reduced Deoxynivalenol Content in Wheat Grains.&quot; <i>G3: Genes|Genomes|Genetics</i>. https://doi.org/10.1093/g3journal/jkaf176'
 ---
-This study demonstrates that combining genomic and hyperspectral imaging-based predictions enables effective selection for reduced deoxynivalenol (DON) content in wheat grains.
