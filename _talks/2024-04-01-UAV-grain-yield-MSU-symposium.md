@@ -7,4 +7,3 @@ venue: "MSU Plant Science Graduate Student Research Symposium"
 date: 2024-04-01
 location: "East Lansing, Michigan, USA"
 ---
-Graduate Student Presentation Competition.
