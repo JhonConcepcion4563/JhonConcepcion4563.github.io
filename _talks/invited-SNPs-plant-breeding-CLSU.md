@@ -7,4 +7,3 @@ venue: "Department of Biological Sciences, Central Luzon State University"
 date: 2019-01-01
 location: "Science City of Muñoz, Nueva Ecija, Philippines"
 ---
-Invited departmental talk on SNP applications in plant breeding.
