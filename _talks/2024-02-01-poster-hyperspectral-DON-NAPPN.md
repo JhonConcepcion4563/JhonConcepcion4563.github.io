@@ -7,4 +7,3 @@ venue: "North American Plant Phenotyping Network (NAPPN) Annual Conference; Plan
 date: 2024-02-01
 location: "West Lafayette, Indiana, USA; San Diego, California, USA; St. Louis, Missouri, USA"
 ---
-Presented at multiple conferences: NAPPN (Feb. 2024), PAG 31 (Jan. 2024), and ASA-CSSA-SSA (Nov. 2023).
