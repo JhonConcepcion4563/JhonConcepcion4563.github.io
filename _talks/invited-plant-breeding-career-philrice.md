@@ -1,7 +1,7 @@
 ---
 title: "Plant Breeding and Biotechnology: As a Career, As a Science"
 collection: talks
-type: "talk"
+type: "invited"
 permalink: /talks/invited-plant-breeding-career-philrice
 venue: "National Biotechnology Week Celebration, Crop Biotechnology Center, Philippine Rice Research Institute"
 date: 2021-01-01

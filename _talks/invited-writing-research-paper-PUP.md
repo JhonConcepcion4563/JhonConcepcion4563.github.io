@@ -1,7 +1,7 @@
 ---
 title: "Writing Research Paper and Submission for Publication"
 collection: talks
-type: "talk"
+type: "invited"
 permalink: /talks/invited-writing-research-paper-PUP
 venue: "Polytechnic University of the Philippines (PUP) Mycology Laboratory"
 date: 2018-01-01
