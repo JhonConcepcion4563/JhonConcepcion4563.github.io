@@ -7,4 +7,3 @@ venue: "ASA-CSSA-SSA Annual International Meeting"
 date: 2023-11-02
 location: "St. Louis, Missouri, USA"
 ---
-5-Minute Rapid Presentation / Graduate Student Competition.
