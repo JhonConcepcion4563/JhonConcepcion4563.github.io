@@ -1,16 +1,34 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% assign invited = site.talks | where: "type", "invited" | sort: "date" | reverse %}
+{% assign oral = site.talks | where: "type", "talk" | sort: "date" | reverse %}
+{% assign posters = site.talks | where: "type", "poster" | sort: "date" | reverse %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
+{% if invited.size > 0 %}
+<h2>Invited Lectures and Talks</h2>
+<hr/>
+{% for post in invited %}
   {% include archive-single-talk.html %}
 {% endfor %}
+{% endif %}
+
+{% if oral.size > 0 %}
+<h2>Oral Presentations</h2>
+<hr/>
+{% for post in oral %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+{% endif %}
+
+{% if posters.size > 0 %}
+<h2>Conference Posters</h2>
+<hr/>
+{% for post in posters %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+{% endif %}
