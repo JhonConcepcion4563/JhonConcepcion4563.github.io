@@ -1,2 +1,15 @@
-<!-- Other content remains unchanged -->
-{{ post.date | date: '%Y' }}
+<article>
+  <h2 class="archive__item-title" itemprop="headline">
+    {% if post.link %}
+      <a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fa fa-link" aria-label="permalink"></i></a>
+    {% else %}
+      <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+    {% endif %}
+  </h2>
+  {% if post.venue %}
+    <p class="archive__item-venue"><em>{{ post.venue }}</em></p>
+  {% endif %}
+  {% if post.date %}
+    <p class="archive__item-date">{{ post.date | date: '%Y' }}</p>
+  {% endif %}
+</article>
