@@ -7,4 +7,3 @@ venue: "Texas A&M Plant Breeding Symposium"
 date: 2025-02-01
 location: "College Station, Texas, USA"
 ---
-Graduate Student Presentation.
