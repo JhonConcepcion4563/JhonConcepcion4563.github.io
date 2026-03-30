@@ -7,4 +7,3 @@ venue: "National US Wheat and Barley Scab Initiative (USWBSI) Forum"
 date: 2022-12-01
 location: "Tampa Bay, Florida, USA"
 ---
-3-Minute Flash and Dash Presentation / Graduate Student Presentation.
