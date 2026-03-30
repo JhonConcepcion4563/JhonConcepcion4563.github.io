@@ -45,11 +45,6 @@ var addressPoints = [
     -76.610759
   ],
   [
-    "Hyperspectral Imaging-Based Phenomic Prediction and Selection for Deoxynivalenol Accumulation in Soft Winter Wheat<br />ASA-CSSA-SSA Annual International Meeting; St. Louis, Missouri, USA",
-    38.6254063,
-    -90.190009
-  ],
-  [
     "QTL-Seq Based Identification of Genomic Regions and Candidate Genes for Nitrogen Uptake in Rice<br />ASA-CSSA-SSA Annual International Meeting; Salt Lake City, Utah, USA",
     40.7596198,
     -111.886797
@@ -78,5 +73,10 @@ var addressPoints = [
     "High Throughput Deoxynivalenol Concentration Detection and Prediction in Fusarium-Damaged Wheat Kernels using Handheld Hyperspectral Imaging Platform<br />National US Wheat and Barley Scab Initiative (USWBSI) Forum; Tampa Bay, Florida, USA",
     27.6886419,
     -82.5723193
+  ],
+  [
+    "Writing Research Paper and Submission for Publication<br />Polytechnic University of the Philippines (PUP) Mycology Laboratory; Sta. Mesa, Manila, Philippines",
+    14.5895603,
+    121.020013
   ]
 ];
