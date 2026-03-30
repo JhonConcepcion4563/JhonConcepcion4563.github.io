@@ -7,4 +7,3 @@ venue: "ASA-CSSA-SSA Annual International Meeting"
 date: 2023-11-01
 location: "St. Louis, Missouri, USA"
 ---
-Concurrent Session.
