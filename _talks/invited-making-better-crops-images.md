@@ -1,7 +1,7 @@
 ---
 title: "Making Better Crops using Images"
 collection: talks
-type: "talk"
+type: "invited"
 permalink: /talks/invited-making-better-crops-images
 venue: "Biology on Tap, Michigan Wildlife Conservancy"
 date: 2022-01-01

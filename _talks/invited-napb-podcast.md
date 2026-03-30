@@ -1,7 +1,7 @@
 ---
 title: "From Passion to Practice: A Multifaceted Journey in Plant Breeding and Genomic Innovation"
 collection: talks
-type: "talk"
+type: "invited"
 permalink: /talks/invited-napb-podcast
 venue: "National Association for Plant Breeding (NAPB) Breeding Bites Podcast"
 date: 2024-01-01
