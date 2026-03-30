@@ -3,7 +3,6 @@ title: "Blended Genomic and Hyperspectral Imaging-Based Predictions Enable Selec
 collection: publications
 category: manuscripts
 permalink: /publication/2025-blended-genomic-hyperspectral-DON
-excerpt: 'This study demonstrates that combining genomic and hyperspectral imaging-based predictions enables effective selection for reduced deoxynivalenol (DON) content in wheat grains.'
 date: 2025-01-01
 venue: 'G3: Genes|Genomes|Genetics'
 paperurl: 'https://doi.org/10.1093/g3journal/jkaf176'
