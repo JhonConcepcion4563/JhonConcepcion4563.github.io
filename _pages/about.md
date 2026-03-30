@@ -6,16 +6,47 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Jhon is currently Postdoctoral Scholar in the Department of Plant Biology at Michigan State University, with affiliations at the Great Lakes Bioenergy Research Center (U.S. Department of Energy) and the MSU Plant Resilience Institute. He specializes in applied genomics, phenomics, and quantitative genetics, aiming to accelerate genetic gain and develop improved crop varieties. He earned his PhD in Plant Breeding, Genetics, and Biotechnology from Michigan State University, where he developed multi-omic frameworks for soft winter wheat improvement. His doctoral research integrated hyperspectral and infrared thermal imaging, UAV-based phenotyping, genome-wide association (GWAS), and genomic prediction to better understand and improve complex quantitative traits. This work led to advances in blending genomic and phenomic prediction models, clustering-based selection strategies, and hyperspectral imaging–assisted GWAS. Currently, his research focuses on dissecting the genetic architecture of biomass production, stability, and adaptability in switchgrass across spatial and temporal scales. He is also evaluating satellite-based imaging to assess nitrogen response and cropping system performance in bioenergy crops. Before joining MSU, he worked at the Philippine Rice Research Institute and Louisiana State University. He remains active in scientific leadership and mentorship, having served as Chair of the Graduate Student Working Group of the National Association for Plant Breeding and as a mentor to high school researchers and prospective graduate students in the Philippines. 
+Jhon Concepcion is a Postdoctoral Scholar in the Department of Plant Biology at Michigan State University, with affiliations with the Great Lakes Bioenergy Research Center and the MSU Plant Resilience Institute. His research integrates genomics, phenomics, and quantitative genetics to accelerate crop improvement. He earned his PhD in Plant Breeding, Genetics, and Biotechnology from MSU, where he developed multi-omic approaches for soft winter wheat improvement using UAV imaging, hyperspectral and thermal phenotyping, GWAS, and genomic prediction. His current work focuses on the genetic basis of biomass production, stability, and adaptability in switchgrass, alongside satellite-based approaches for assessing nitrogen response in bioenergy crops.
 
-
-Site-wide configuration
+Jhon's Educational Background
 ------
+**Phd in Plant Breeding, Genetics, and Biotechnology**
+2021 - 2025
+Michigan State University, USA
 
-Create content & metadata
+**BS in Biology**
+2015
+Central Luzon State University, Philippines
 
-**Markdown generator**
+Jhon's Professional Background
+------
+**Postdoctoral Research Associate / Postdoctoral Scholar**
+2025 - Present
+Department of Plant Biology & MSU Plant Resilience Institute, Michigan State University, USA
+U.S. Department of Energy - Great Lakes Bioenergy Research Center, Michigan State University, USA
 
+**Graduate Research Assistant**
+2021 - 2025
+MSU Wheat Breeding and Genetics
+Department of Plant, Soil, and Microbial Sciences, Michigan State University, USA
 
-How to edit your site's GitHub repository
+**Research Associate Specialist**
+2019 - 2021
+School of Plant, Soil, and Environmental Sciences, Louisiana State University, USA
 
+**Science Research Analyst**
+2016 - 2019
+Plant Breeding and Biotechnology Division
+Philippine Rice Research Institue
+
+**Science Research Assistant**
+2015 - 2016
+Plant Breeding and Biotechnology Division
+Philippine Rice Research Institue
+
+More About Jhon!
+------
+•  Jhon is very passionate about photography, and considers himself a "photo-hobbyist".
+•  Jhon is a huge F1 fan, with Oscar Piastri as his favorite and number 1 driver. If you talk to him, he will most likely talk about F1.
+•  He is also a huge horror and thriller movie fan, with some of his favorite movies include The Machinist, Final Destination I, Saw I and II, Insidious, and Jacob's Ladder
+•  Jhon used to dance in high school and college, even being part of his university's dance troupe at one point.
