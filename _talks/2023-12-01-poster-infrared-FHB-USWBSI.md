@@ -7,4 +7,3 @@ venue: "National US Wheat and Barley Scab Initiative (USWBSI) Forum; National As
 date: 2023-12-01
 location: "Cincinnati, Ohio, USA; Greenville, South Carolina, USA"
 ---
-Presented at USWBSI Forum (Dec. 2023) and NAPB Annual Meeting (Jul. 2023).
