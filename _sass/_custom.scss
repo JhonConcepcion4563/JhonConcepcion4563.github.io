@@ -1,1 +1,152 @@
-/* ==========================================================================\n   CUSTOM MODERN STYLES - Dark Blue Accent Theme\n   ========================================================================== */\n\n/* --- SCSS Variables (required by layout/_buttons.scss) --- */\n$border-radius: 4px;\n\n/* --- Accent Color Variables --- */\n$accent-color: #1a3a6b;\n$accent-light: #2d5aa0;\n$accent-hover: #0f2447;\n\n/* --- Masthead / Navigation --- */\n.masthead {\n  background: #0f2447 !important;\n  border-bottom: 3px solid #2d5aa0;\n  box-shadow: 0 2px 12px rgba(0,0,0,0.18);\n\n  .site-title {\n    color: #ffffff !important;\n    font-weight: 700;\n    letter-spacing: 0.5px;\n    &:hover { color: #a8c4f0 !important; }\n  }\n\n  .greedy-nav {\n    background: transparent !important;\n\n    a {\n      color: #d0e0f7 !important;\n      font-weight: 500;\n      letter-spacing: 0.3px;\n      transition: color 0.2s ease;\n      &:hover { color: #ffffff !important; }\n    }\n\n    .visible-links a {\n      &:before {\n        background: #a8c4f0;\n      }\n      &.is-active {\n        color: #ffffff !important;\n        border-bottom: 3px solid #a8c4f0;\n      }\n    }\n  }\n}\n\n/* --- Page headings --- */\nh1, h2, h3 {\n  font-weight: 700;\n}\nh2 {\n  border-bottom: 3px solid #2d5aa0;\n  padding-bottom: 0.3em;\n  margin-bottom: 0.8em;\n  color: #0f2447;\n}\nh3 {\n  color: #1a3a6b;\n}\n\n/* --- Links --- */\na {\n  color: #1a3a6b;\n  transition: color 0.2s ease;\n  &:hover {\n    color: #2d5aa0;\n    text-decoration: underline;\n  }\n}\n\n/* --- Buttons --- */\n.btn--primary {\n  background-color: #1a3a6b !important;\n  border-color: #1a3a6b !important;\n  color: #fff !important;\n  border-radius: 6px;\n  font-weight: 600;\n  transition: background 0.2s ease, transform 0.1s ease;\n  &:hover {\n    background-color: #2d5aa0 !important;\n    border-color: #2d5aa0 !important;\n    transform: translateY(-1px);\n  }\n}\n\n/* --- Author sidebar --- */\n.sidebar.sticky {\n  background: linear-gradient(160deg, #f0f5ff 0%, #e8eef8 100%);\n  border-radius: 10px;\n  padding: 1.2em;\n  border: 1px solid #c8d8f0;\n}\n\n.author__name {\n  color: #0f2447;\n  font-weight: 700;\n}\n\n.author__bio {\n  color: #2d5aa0;\n  font-size: 0.9em;\n}\n\n/* --- Archive / publication list items --- */\n.archive__item-title a {\n  color: #1a3a6b;\n  font-weight: 600;\n  &:hover { color: #2d5aa0; }\n}\n\n/* --- Page content area --- */\n.page__content {\n  p { line-height: 1.8; }\n\n  h2 {\n    margin-top: 1.5em;\n  }\n}\n\n/* --- Page title --- */\n.page__title {\n  color: #0f2447;\n  font-weight: 800;\n  border-bottom: 4px solid #2d5aa0;\n  padding-bottom: 0.3em;\n}\n\n/* --- Footer --- */\n.page__footer {\n  background: #0f2447;\n  color: #d0e0f7;\n\n  a {\n    color: #a8c4f0;\n    &:hover { color: #ffffff; }\n  }\n\n  footer {\n    background: #0f2447;\n    color: #d0e0f7;\n  }\n}\n\n/* --- Smooth rounded cards for notices --- */\n.notice, .notice--info, .notice--warning, .notice--danger, .notice--success {\n  border-radius: 8px;\n  border-left: 5px solid #2d5aa0;\n}
+/* ========================================================================== 
+   CUSTOM MODERN STYLES - Dark Blue Accent Theme
+   ========================================================================== */
+
+/* --- SCSS Variables (required by layout/_buttons.scss and layout/_notices.scss) --- */
+$border-radius: 4px;
+
+/* --- Accent Color Variables --- */
+$accent-color: #1a3a6b;
+$accent-light: #2d5aa0;
+$accent-hover: #0f2447;
+
+/* --- Masthead / Navigation --- */
+.masthead {
+  background: #0f2447 !important;
+  border-bottom: 3px solid #2d5aa0;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+
+  .site-title {
+    color: #ffffff !important;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    &:hover { color: #a8c4f0 !important; }
+  }
+
+  .greedy-nav {
+    background: transparent !important;
+
+    a {
+      color: #d0e0f7 !important;
+      font-weight: 500;
+      letter-spacing: 0.3px;
+      transition: color 0.2s ease;
+      &:hover { color: #ffffff !important; }
+    }
+
+    .visible-links a {
+      &:before {
+        background: #a8c4f0;
+      }
+      &.is-active {
+        color: #ffffff !important;
+        border-bottom: 3px solid #a8c4f0;
+      }
+    }
+  }
+}
+
+/* --- Page headings --- */
+h1, h2, h3 {
+  font-weight: 700;
+}
+
+h2 {
+  border-bottom: 3px solid #2d5aa0;
+  padding-bottom: 0.3em;
+  margin-bottom: 0.8em;
+  color: #0f2447;
+}
+
+h3 {
+  color: #1a3a6b;
+}
+
+/* --- Links --- */
+a {
+  color: #1a3a6b;
+  transition: color 0.2s ease;
+  &:hover {
+    color: #2d5aa0;
+    text-decoration: underline;
+  }
+}
+
+/* --- Buttons --- */
+.btn--primary {
+  background-color: #1a3a6b !important;
+  border-color: #1a3a6b !important;
+  color: #fff !important;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: background 0.2s ease, transform 0.1s ease;
+  &:hover {
+    background-color: #2d5aa0 !important;
+    border-color: #2d5aa0 !important;
+    transform: translateY(-1px);
+  }
+}
+
+/* --- Author sidebar --- */
+.sidebar.sticky {
+  background: linear-gradient(160deg, #f0f5ff 0%, #e8eef8 100%);
+  border-radius: 10px;
+  padding: 1.2em;
+  border: 1px solid #c8d8f0;
+}
+
+.author__name {
+  color: #0f2447;
+  font-weight: 700;
+}
+
+.author__bio {
+  color: #2d5aa0;
+  font-size: 0.9em;
+}
+
+/* --- Archive / publication list items --- */
+.archive__item-title a {
+  color: #1a3a6b;
+  font-weight: 600;
+  &:hover { color: #2d5aa0; }
+}
+
+/* --- Page content area --- */
+.page__content {
+  p { line-height: 1.8; }
+
+  h2 {
+    margin-top: 1.5em;
+  }
+}
+
+/* --- Page title --- */
+.page__title {
+  color: #0f2447;
+  font-weight: 800;
+  border-bottom: 4px solid #2d5aa0;
+  padding-bottom: 0.3em;
+}
+
+/* --- Footer --- */
+.page__footer {
+  background: #0f2447;
+  color: #d0e0f7;
+
+  a {
+    color: #a8c4f0;
+    &:hover { color: #ffffff; }
+  }
+
+  footer {
+    background: #0f2447;
+    color: #d0e0f7;
+  }
+}
+
+/* --- Smooth rounded cards for notices --- */
+.notice, .notice--info, .notice--warning, .notice--danger, .notice--success {
+  border-radius: 8px;
+  border-left: 5px solid #2d5aa0;
+}
