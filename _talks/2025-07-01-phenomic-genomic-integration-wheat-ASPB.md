@@ -7,4 +7,3 @@ venue: "American Society of Plant Biologists Annual Meeting"
 date: 2025-07-01
 location: "Milwaukee, WI, USA"
 ---
-Concurrent Session.
