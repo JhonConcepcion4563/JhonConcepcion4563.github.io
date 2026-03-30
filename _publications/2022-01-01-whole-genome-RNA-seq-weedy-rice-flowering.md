@@ -3,7 +3,6 @@ title: "Whole Genome Sequencing and RNA-Seq Reveal Differences in Genetic Mechan
 collection: publications
 category: manuscripts
 permalink: /publication/2022-whole-genome-RNA-seq-weedy-rice-flowering
-excerpt: 'Whole genome sequencing and RNA-Seq analyses revealed distinct genetic mechanisms controlling flowering response in weedy rice compared to cultivated rice.'
 date: 2022-01-01
 venue: 'International Journal of Molecular Sciences'
 paperurl: 'https://doi.org/10.3390/ijms23031608'
