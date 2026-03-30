@@ -3,7 +3,6 @@ title: "Genetic Variation among the Salinity Tolerant Breeding Lines Identified 
 collection: publications
 category: manuscripts
 permalink: /publication/2022-genetic-variation-salinity-rice
-excerpt: 'Characterization of genetic variation among salinity-tolerant breeding lines identified from two multi-parent advanced generation introgression line (MAGIC) populations in rice.'
 date: 2022-01-02
 venue: 'Journal of Agronomy and Crop Science'
 paperurl: 'https://doi.org/10.1111/jac.12581'
