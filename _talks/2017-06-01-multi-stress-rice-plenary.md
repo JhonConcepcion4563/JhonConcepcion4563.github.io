@@ -7,4 +7,3 @@ venue: "Federation of Crop Science Societies of the Philippines (FCSSP) Scientif
 date: 07-2017
 location: "Iloilo City, Philippines"
 ---
-Plenary Presentation / Best Paper Competition.
