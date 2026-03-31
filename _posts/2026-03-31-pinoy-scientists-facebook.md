@@ -1,6 +1,5 @@
 ---
 title: "Pinoy Scientists Facebook Feature"
-date: 2026-03-31
 permalink: /posts/2026/03/pinoy-scientists-facebook/
 excerpt: "Pinoy Scientists shared my profile on their Facebook page, reaching the broader Filipino science community and highlighting my work in plant breeding and genetics."
 tags:
