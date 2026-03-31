@@ -5,7 +5,27 @@ permalink: /blog-posts/
 author_profile: true
 ---
 
-<div class="blog-post-card">
+{% for post in site.posts %}
+<div class="blog-post-card" style="margin-bottom:2em;">
+  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  <p style="color:#888;font-size:0.9em;">{{ post.date | date: "%B %d, %Y" }}</p>
+  {% if post.excerpt %}
+    <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+  {% endif %}
+  {% if post.tags.size > 0 %}
+    <p>
+      {% for tag in post.tags %}
+        <span style="display:inline-block;background:#e0f0d0;color:#3a6a1a;border-radius:3px;padding:2px 8px;font-size:0.82em;margin-right:4px;">{{ tag }}</span>
+      {% endfor %}
+    </p>
+  {% endif %}
+  <a href="{{ post.url | relative_url }}" style="display:inline-block;padding:0.4em 1em;background:#6d9b3a;color:#fff;border-radius:4px;text-decoration:none;font-weight:bold;font-size:0.9em;">Read more →</a>
+</div>
+<hr>
+{% endfor %}
+
+<!-- Static entries (videos, PDFs, etc.) -->
+<div class="blog-post-card" style="margin-bottom:2em;">
   <h2>SIDHI Lecture Series: Experimental Design and Set Up | JS Concepcion</h2>
   <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
     <iframe
@@ -19,7 +39,7 @@ author_profile: true
 
 <hr>
 
-<div class="blog-post-card">
+<div class="blog-post-card" style="margin-bottom:2em;">
   <h2>NAPB Breeding Bites Podcast - Jhon Concepcion</h2>
   <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
     <iframe
@@ -33,7 +53,7 @@ author_profile: true
 
 <hr>
 
-<div class="blog-post-card">
+<div class="blog-post-card" style="margin-bottom:2em;">
   <h2>2023 NAPB Borlaug Scholar Profile</h2>
   <a href="https://www.plantbreeding.org/files/napb/2023-borlaug-scholar-profiles-for-posting.pdf"
      target="_blank"
