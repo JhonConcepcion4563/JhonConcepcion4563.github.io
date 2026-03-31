@@ -1,6 +1,5 @@
 ---
 title: "MSU CANR: A Fresh Crop of New Scientists"
-date: 2026-03-31
 permalink: /posts/2026/03/msu-canr-fresh-crop-scientists/
 excerpt: "Michigan State University's College of Agriculture and Natural Resources featured me as part of their 'Fresh Crop of New Scientists' — highlighting my PhD completion in Plant Breeding, Genetics, and Biotechnology."
 tags:
