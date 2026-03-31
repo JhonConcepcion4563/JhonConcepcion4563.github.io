@@ -1,6 +1,5 @@
 ---
 title: "PhilRice: New Breeding Line Shows High Submergence Tolerance"
-date: 2026-03-31
 permalink: /posts/2026/03/philrice-submergence-tolerance/
 excerpt: "During my time as a Science Research Analyst at the Philippine Rice Research Institute (PhilRice), our team developed new rice breeding lines with high submergence tolerance — a critical advancement for flood-prone farming areas in the Philippines."
 tags:
