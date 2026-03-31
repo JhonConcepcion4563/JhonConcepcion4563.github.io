@@ -1,6 +1,5 @@
 ---
 title: "PhilRice: Drought Tolerant Lines Improved Through Mutation"
-date: 2026-03-31
 permalink: /posts/2026/03/philrice-drought-tolerant-mutation/
 excerpt: "Our research at PhilRice developed drought-tolerant rice lines through induced mutation — offering new hope for farmers in rainfed areas affected by water scarcity."
 tags:
