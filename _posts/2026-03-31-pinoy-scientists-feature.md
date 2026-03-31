@@ -1,6 +1,5 @@
 ---
 title: "Featured on Pinoy Scientists"
-date: 2026-03-31
 permalink: /posts/2026/03/pinoy-scientists-feature/
 excerpt: "Pinoy Scientists featured my journey as a Filipino scientist — from studying mutant rice lines at Central Luzon State University, to working at PhilRice, and now conducting wheat breeding research at Michigan State University."
 tags:
